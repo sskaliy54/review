@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sskal\\source\\repos\\prob\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF87D78-16DC-4E4D-83EB-E7BDE7205353}|prob\\STimg.csproj|c:\\users\\sskal\\source\\repos\\prob\\prob\\services\\filterimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF87D78-16DC-4E4D-83EB-E7BDE7205353}|prob\\STimg.csproj|solutionrelative:prob\\services\\filterimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF87D78-16DC-4E4D-83EB-E7BDE7205353}|prob\\STimg.csproj|c:\\users\\sskal\\source\\repos\\prob\\prob\\viewmodel\\editpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF87D78-16DC-4E4D-83EB-E7BDE7205353}|prob\\STimg.csproj|solutionrelative:prob\\viewmodel\\editpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF87D78-16DC-4E4D-83EB-E7BDE7205353}|prob\\STimg.csproj|c:\\users\\sskal\\source\\repos\\prob\\prob\\enums\\filtertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF87D78-16DC-4E4D-83EB-E7BDE7205353}|prob\\STimg.csproj|solutionrelative:prob\\enums\\filtertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilterImageService.cs",
+              "DocumentMoniker": "C:\\Users\\sskal\\source\\repos\\prob\\prob\\Services\\FilterImageService.cs",
+              "RelativeDocumentMoniker": "prob\\Services\\FilterImageService.cs",
+              "ToolTip": "C:\\Users\\sskal\\source\\repos\\prob\\prob\\Services\\FilterImageService.cs",
+              "RelativeToolTip": "prob\\Services\\FilterImageService.cs",
+              "ViewState": "AQIAAOUAAAAAAAAAAAAAAO4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:52:20.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilterType.cs",
+              "DocumentMoniker": "C:\\Users\\sskal\\source\\repos\\prob\\prob\\Enums\\FilterType.cs",
+              "RelativeDocumentMoniker": "prob\\Enums\\FilterType.cs",
+              "ToolTip": "C:\\Users\\sskal\\source\\repos\\prob\\prob\\Enums\\FilterType.cs",
+              "RelativeToolTip": "prob\\Enums\\FilterType.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:34:16.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditPageVM.cs",
+              "DocumentMoniker": "C:\\Users\\sskal\\source\\repos\\prob\\prob\\ViewModel\\EditPageVM.cs",
+              "RelativeDocumentMoniker": "prob\\ViewModel\\EditPageVM.cs",
+              "ToolTip": "C:\\Users\\sskal\\source\\repos\\prob\\prob\\ViewModel\\EditPageVM.cs",
+              "RelativeToolTip": "prob\\ViewModel\\EditPageVM.cs",
+              "ViewState": "AQIAAHcBAAAAAAAAAAAgwIoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:33:29.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
